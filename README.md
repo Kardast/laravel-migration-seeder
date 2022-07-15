@@ -19,9 +19,11 @@ Cancellato
 <!-- ok -->
 
 Inserite inizialmente i dati tramite PhpMyAdmin.
+<!-- ok -->
 
 Create Model relativo ed un Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna.
-
+<!-- ok -->
 
 Fase 2
 Dopo averne definito la struttura inserite dei dati pseudo-reali tramite la classe Faker.
+<!-- ok -->
