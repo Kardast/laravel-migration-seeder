@@ -16,6 +16,7 @@ In orario
 Cancellato
 
 È probabile che siano necessarie altre colonne per far funzionare la tabella nel modo corretto ;) ... metti ID
+<!-- ok -->
 
 Inserite inizialmente i dati tramite PhpMyAdmin.
 
